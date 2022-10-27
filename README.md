@@ -5,8 +5,7 @@
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Testing](#testing)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 
 ## Requirements
